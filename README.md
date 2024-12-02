@@ -1,4 +1,5 @@
 **Calculator**
+
 A simple and interactive frontend calculator built with HTML, CSS, and JavaScript. This calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 **Features**
